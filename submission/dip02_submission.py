@@ -4,6 +4,8 @@ Assignment 2 : Image Enhancement and Filtering
 Breno Cunha Queiroz - 11218991
 Course SCC0251 - USP
 26/04/2020 - semestre 3
+
+Link repo: https://github.com/Brenocq/DIP-Assignment-2
 '''
 import numpy as np
 import imageio
